@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Buscador BestBuy 5" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-17T02:39:51" hostname="DESKTOP-BLMI9HO" time="535.074">
+  <properties/>
+  <testcase name="Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black" classname="Buscador BestBuy 5" time="114.4"/>
+  <testcase name="Buscar Producto en el buscador de BestBuy SanDisk - Ultra PLUS 128GB microSDXC UHS-I Memory Card Mobile" classname="Buscador BestBuy 5" time="103.004"/>
+  <testcase name="Buscar Producto en el buscador de BestBuy Samsung - 5.2 Cu. Ft. High Efficiency Top Load Washer with Activewash - Black stainless steel" classname="Buscador BestBuy 5" time="102.393"/>
+  <testcase name="Buscar Producto en el buscador de BestBuy GoPro - HERO8 Black 4K Waterproof Action Camera - Black" classname="Buscador BestBuy 5" time="109.197"/>
+  <testcase name="Buscar Producto en el buscador de BestBuy Apple Watch Series 6 (GPS) 44mm Space Gray Aluminum Case with Black Sport Band - Space Gray" classname="Buscador BestBuy 5" time="105.718"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jun 16, 2021 9:39:51 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 18529
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 16, 2021 9:39:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black
+----------------------------------------------------------------------------
+jun 16, 2021 9:41:45 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 10300
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 16, 2021 9:41:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black
+----------------------------------------------------------------------------
+jun 16, 2021 9:43:28 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 31922
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 16, 2021 9:43:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black
+----------------------------------------------------------------------------
+jun 16, 2021 9:45:11 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 45448
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 16, 2021 9:45:14 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black
+----------------------------------------------------------------------------
+jun 16, 2021 9:47:00 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 91.0.4472.19 (1bf021f248676a0b2ab3ee0561d83a59e424c23e-refs/branch-heads/4472@{#288}) on port 38180
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+jun 16, 2021 9:47:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>

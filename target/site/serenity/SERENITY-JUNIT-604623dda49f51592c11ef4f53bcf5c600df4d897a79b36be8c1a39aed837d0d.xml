@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Buscador BestBuy Fallido-Exitoso" skipped="0" tests="2" time="168.02" timestamp="2021-06-16 09:36:56"><testcase name="Prueba Exitosa"/><testcase name="Prueba Fallida"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+tasks.BuscarProductoEnBest.performAs(BuscarProductoEnBest.java:24)&#13;
+stepsDefinitions.BestFallidoExitosoStepDefinitions.se_busca_en_el_sitio_Web_el_articulo(BestFallidoExitosoStepDefinitions.java:38)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

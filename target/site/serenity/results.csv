@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Buscador BestBuy 5","Buscar Producto en el buscador de BestBuy Beats by Dr. Dre - Solo Pro Wireless Noise Cancelling On-Ear Headphones - Black","SUCCESS","2021-06-16T21:39:50.762-05:00[America/Bogota]","0.0","535.05"
+"Buscador BestBuy Aleatorio","Buscar Producto aleatorio en la pagina de BestBuy","SUCCESS","2021-06-16T21:29:33.034-05:00[America/Bogota]","0.0","213.53"
+"Buscador BestBuy Background","Buscar Producto en el buscador de BestBuy","SUCCESS","2021-06-16T21:33:20.882-05:00[America/Bogota]","0.0","208.71"
+"Buscador BestBuy Fallido-Exitoso","Prueba Exitosa","SUCCESS","2021-06-16T21:36:56.841-05:00[America/Bogota]","0.0","94.96"
+"Buscador BestBuy Fallido-Exitoso","Prueba Fallida","FAILURE","2021-06-16T21:38:33.264-05:00[America/Bogota]","0.0","73.06"

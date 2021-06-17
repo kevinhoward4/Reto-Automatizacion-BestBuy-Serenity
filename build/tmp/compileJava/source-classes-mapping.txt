@@ -1,0 +1,14 @@
+models/Productos.java
+ models.Productos
+tasks/BuscarProductoAleatorioBest.java
+ tasks.BuscarProductoAleatorioBest
+tasks/BuscarProductoEnBest.java
+ tasks.BuscarProductoEnBest
+driver/SeleniumWebDriver.java
+ driver.SeleniumWebDriver
+userInterFace/BestUserInterFace.java
+ userInterFace.BestUserInterFace
+interactions/ClickProductoAleatorio.java
+ interactions.ClickProductoAleatorio
+variablesGlobales/VariablesGlobales.java
+ variablesGlobales.VariablesGlobales
